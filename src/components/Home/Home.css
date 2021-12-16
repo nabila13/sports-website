@@ -1,0 +1,25 @@
+.middleware {
+    background-image: linear-gradient(to right, rgb(233, 171, 233), rgb(194, 177, 194));
+    padding: 40px 0;
+}
+
+.container h2 {
+    color: red;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.middle h1 {
+    color: red;
+}
+
+.middle h1,
+h2,
+h6 {
+    font-weight: bold;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

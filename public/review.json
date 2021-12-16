@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "img": "./person1.jpg",
+        "name": "Navin Helkings",
+        "skill": "swimming",
+        "review": "a great platform to develop sports skill as per your desire.Had a great time while being a part of this platform!!"
+    },
+    {
+        "id": 2,
+        "img": "./person2.jpeg",
+        "name": "Alice Wesley",
+        "skill": "cycling",
+        "review": "it is indeed a great platform to develop sports skill as per our interest.Had a great time while being a part of this platform!! wish all the best to all the mentors & New commers!"
+    },
+    {
+        "id": 3,
+        "img": "./person3.jpg",
+        "name": "Bella Swan",
+        "skill": "hockey",
+        "review": "An Amazing platform to develop sports skill as per our wish.i Had a great time learning through this platform!!"
+    },
+    {
+        "id": 4,
+        "img": "./person4.jpg",
+        "name": "John Hopkins",
+        "skill": "Boxing",
+        "review": "It is a great platform to develop sports skill as per dream.Had a great time learning boxing and i encourage all to give it a try!!"
+    },
+    {
+        "id": 5,
+        "img": "./person5.jpg",
+        "name": "Robert Landon",
+        "skill": "soccer",
+        "review": "This is a great platform to develop sports skill as per your desire. i wish all the best to all the individuals & new commers!!"
+    },
+    {
+        "id": 6,
+        "img": "./person6.jpg",
+        "name": "Venus Williams",
+        "skill": "Tennis, Badminton",
+        "review": "Such a wonderful platform to develop sports skill as per your desire.Had a great time while being a part of this platform!!"
+    }
+]

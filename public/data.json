@@ -1,0 +1,65 @@
+[{
+        "id": 1,
+        "img": "./soccer.jpg",
+        "name": "Learn Soccer from master!",
+        "tutor": "Christiano Ronaldo",
+        "des": "Are you dreaming of being a professional soccer player? our Skilled instructors are waiting for you to guide from their experience!",
+        "price": 32
+    },
+    {
+        "id": 2,
+        "img": "./badminton1.jpg",
+        "name": "Be pro in Badminton!",
+        "tutor": "Shakib Al Hasan",
+        "des": "Do you desparately want to be a pro level bandminton player? our Skilled instructors are waiting for you to guide from their experience!",
+        "price": 29
+    },
+    {
+        "id": 3,
+        "img": "./boxing1.jpg",
+        "name": "Become a boxing legend",
+        "tutor": "Mohammad Ali",
+        "des": "If you are dreaming of being a professional boxer,then our Skilled instructors are waiting for you to guide from their experience!",
+        "price": 37
+    },
+    {
+        "id": 4,
+        "img": "./cycling1.jpeg",
+        "name": "Be a cycling master",
+        "tutor": "Ralph Lorren",
+        "des": "Are you dreaming of being a professional Cycling legend? our Skilled instructors are waiting for you to guide from their experience!",
+        "price": 32
+    },
+    {
+        "id": 5,
+        "img": "./hokey1.jpg",
+        "name": "Be a professional Hockey player!",
+        "tutor": "Rfael Nadal",
+        "des": "Are you dreaming of being a professional hockey player? our Skilled instructors are waiting for you to guide from their experience!",
+        "price": 30
+    },
+    {
+        "id": 6,
+        "img": "./kabbadi1.jpg",
+        "name": "Learn Kabbadi from grand masters!",
+        "tutor": "Virat Kohli",
+        "des": "Do you love playing kabbadi? our Skilled instructors are waiting for you to guide from their experience!",
+        "price": 28
+    },
+    {
+        "id": 7,
+        "img": "./skater1.jpg",
+        "name": "Learn Skating from professionals",
+        "tutor": "Serena Williams",
+        "des": "Are you dreaming of being a professional skater? our Skilled instructors are waiting for you to guide from their experience!",
+        "price": 32
+    },
+    {
+        "id": 8,
+        "img": "./swimming1.jpg",
+        "name": "Be a world class swimmer",
+        "tutor": "Micheal Phelps",
+        "des": "Are you dreaming of being a professional swimmer? our Skilled instructors are waiting for you to guide from their experience!",
+        "price": 40
+    }
+]
