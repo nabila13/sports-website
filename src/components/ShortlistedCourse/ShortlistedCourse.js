@@ -18,7 +18,7 @@ const ShortlistedCourse = (props) => {
       Instructor's Name: {tutor}
     </Card.Text>
     <Card.Text>
-      Course enrollment Fee: {price}$
+      Course enrollment Fee: ${price}
     </Card.Text>
   </Card.Body>
 </Card>

@@ -58,12 +58,12 @@ const Home = () => {
     <h1 className="mx-auto my-5">Website statistics since beginning</h1>
     <div className="d-flex w-100 flex-lg-row middleware flex-md-row flex-sm-column flex-column justify-content-lg-evenly justify-content-md-evenly justify-content-sm-center justify-content-center align-items-center container-fluid">
     <div>
-        <h2><CountUp delay={1.5} end={3410} duration={4} redraw={true}>
+        <h2><CountUp delay={1.5} end={34100} duration={4} redraw={true}>
             </CountUp>+</h2>
         <h6>total enrolled students</h6>
     </div>
     <div>
-        <h2><CountUp delay={1.5} end={140} duration={4} redraw={true}>
+        <h2><CountUp delay={1.5} end={1400} duration={4} redraw={true}>
             </CountUp>+</h2>
         <h6>total tutors</h6>
     </div>
@@ -73,7 +73,7 @@ const Home = () => {
         <h6>total courses</h6>
     </div>
     <div>
-        <h2><CountUp end={890} delay={1.5} duration={4}redraw={true}>
+        <h2><CountUp end={8900} delay={1.5} duration={4}redraw={true}>
             </CountUp>+</h2>
         <h6>happy reviews</h6>
     </div>
@@ -95,7 +95,61 @@ const Home = () => {
 </Row>
 </Container>
     </div>
-        </div>
+    <div className="middle container-fluid mb-5">
+    <h1 className="mx-auto my-5">Our Branches' Inside Asia</h1>
+    <div className="d-flex w-100 flex-lg-row middleware flex-md-row flex-sm-column flex-column justify-content-lg-evenly justify-content-md-evenly justify-content-sm-center justify-content-center align-items-center container-fluid">
+    <div className='d-flex mb-3 flex-column justify-content-center align-items-center'>
+      <div className='mb-4'>
+        <h4 className='fw-bold fst-italic'><CountUp delay={3.5} end={20} duration={4}>
+            </CountUp>+</h4>
+            <h6 className='fw-bold fst-italic'>in Bangladesh</h6>
+      </div>
+      <div>
+        <h4 className='fw-bold fst-italic'><CountUp delay={3.5} end={12} duration={4}>
+            </CountUp>+</h4>
+            <h6 className='fw-bold fst-italic'>in Nepal</h6>
+      </div>
+    </div>
+    <div className='d-flex mb-3 flex-column justify-content-center align-items-center'>
+      <div className='mb-4'>
+        <h4 className='fw-bold fst-italic'><CountUp delay={3.5} end={40} duration={4}>
+            </CountUp>+</h4>
+            <h6 className='fw-bold fst-italic'>in India</h6>
+      </div>
+      <div>
+        <h4 className='fw-bold fst-italic'><CountUp delay={3.5} end={50} duration={4}>
+            </CountUp>+</h4>
+            <h6 className='fw-bold fst-italic'>in China</h6>
+      </div>
+    </div>
+    <div className='d-flex flex-column mb-3 justify-content-center align-items-center'>
+      <div className='mb-4'>
+        <h4 className='fw-bold fst-italic'><CountUp delay={3.5} end={25} duration={4}>
+            </CountUp>+</h4>
+            <h6 className='fw-bold fst-italic'>in Malaysia</h6>
+      </div>
+      <div>
+        <h4 className='fw-bold fst-italic'><CountUp delay={3.5} end={30} duration={4}>
+            </CountUp>+</h4>
+            <h6 className='fw-bold fst-italic'>in Japan</h6>
+      </div>
+    </div>
+    <div className='d-flex flex-column mb-3 justify-content-center align-items-center'>
+      <div className='mb-4'>
+        <h4 className='fw-bold fst-italic'><CountUp delay={3.5} end={11} duration={4}>
+            </CountUp>+</h4>
+            <h6 className='fw-bold fst-italic'>in Vietnam</h6>
+      </div>
+      <div>
+        <h4 className='fw-bold fst-italic'><CountUp delay={3.5} end={18} duration={4}>
+            </CountUp>+</h4>
+            <h6 className='fw-bold fst-italic'>in Afganistan</h6>
+      </div>
+    </div>
+
+               </div>
+           </div>
+     </div>
     );
 };
 
